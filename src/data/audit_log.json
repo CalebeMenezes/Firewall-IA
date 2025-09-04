@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2025-09-04T18:29:48.284450",
+        "user": "admin",
+        "role": "admin",
+        "action": "Iniciou o Firewall",
+        "target": "-"
+    },
+    {
+        "timestamp": "2025-09-04T18:31:22.917241",
+        "user": "admin",
+        "role": "admin",
+        "action": "Pausou o Firewall",
+        "target": "-"
+    },
+    {
+        "timestamp": "2025-09-04T18:32:02.903772",
+        "user": "admin",
+        "role": "admin",
+        "action": "Desligou o Firewall",
+        "target": "-"
+    }
+]

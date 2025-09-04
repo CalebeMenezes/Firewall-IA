@@ -1,0 +1,45 @@
+# -------------------
+# Pastas de modelos e IA
+# -------------------
+model/
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# -------------------
+# Pastas de capturas e features de IPs
+# -------------------
+captures/
+features/
+data/captures/
+data/features/
+
+# -------------------
+# Logs
+# -------------------
+*.log
+data/firewall_log.txt
+data/audit_log.json
+
+# -------------------
+# Dados temporários ou de teste
+# -------------------
+*.csv
+*.tmp
+*.bak
+
+# -------------------
+# Configurações do ambiente virtual
+# -------------------
+venv/
+.env
+__pycache__/
+*.pyc
+
+# -------------------
+# Arquivos de sistema e editor
+# -------------------
+.DS_Store
+Thumbs.db

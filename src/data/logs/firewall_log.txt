@@ -1,0 +1,652 @@
+2025-08-26 20:56:00 | 192.168.1.137 | level: Verde | pkt_count: 5 
+2025-08-26 20:57:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-26 20:56:00 | 192.168.1.143 | level: Amarelo | pkt_count: 222 
+2025-08-26 20:57:00 | 192.168.1.143 | level: Verde | pkt_count: 39 
+2025-08-26 20:56:00 | 192.168.1.149 | level: Verde | pkt_count: 22 
+2025-08-26 20:57:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-26 20:56:00 | 192.168.1.184 | level: Amarelo | pkt_count: 186 
+2025-08-26 20:57:00 | 192.168.1.184 | level: Verde | pkt_count: 26 
+2025-08-26 20:56:00 | 192.168.1.254 | level: Verde | pkt_count: 9 
+2025-08-26 20:56:00 | 213.13.23.52 | level: Amarelo | pkt_count: 34 
+2025-08-26 20:57:00 | 213.13.23.52 | level: Verde | pkt_count: 1 
+2025-08-26 20:56:00 | 213.13.23.62 | level: Amarelo | pkt_count: 15 
+2025-08-26 20:56:00 | 51.132.193.104 | level: Verde | pkt_count: 12 
+2025-08-26 20:58:00 | 192.168.1.143 | level: Amarelo | pkt_count: 281 
+2025-08-26 20:59:00 | 192.168.1.143 | level: Verde | pkt_count: 9 
+2025-08-26 20:58:00 | 192.168.1.149 | level: Verde | pkt_count: 30 
+2025-08-26 20:59:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-26 20:58:00 | 192.168.1.184 | level: Amarelo | pkt_count: 148 
+2025-08-26 20:59:00 | 192.168.1.184 | level: Verde | pkt_count: 6 
+2025-08-26 20:58:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-26 20:58:00 | 213.13.23.62 | level: Amarelo | pkt_count: 21 
+2025-08-26 20:58:00 | 4.231.128.59 | level: Amarelo | pkt_count: 75 
+2025-08-26 20:59:00 | 192.168.1.143 | level: Verde | pkt_count: 48 
+2025-08-26 20:59:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-26 20:59:00 | 192.168.1.184 | level: Verde | pkt_count: 21 
+2025-08-26 20:59:00 | 20.189.173.1 | level: Verde | pkt_count: 2 
+2025-08-26 20:59:00 | 20.73.194.208 | level: Verde | pkt_count: 23 
+2025-08-27 18:38:00 | 192.168.1.100 | level: Verde | pkt_count: 16 
+2025-08-27 18:39:00 | 192.168.1.100 | level: Verde | pkt_count: 15 
+2025-08-27 18:38:00 | 192.168.1.143 | level: Verde | pkt_count: 39 
+2025-08-27 18:39:00 | 192.168.1.143 | level: Verde | pkt_count: 62 
+2025-08-27 18:38:00 | 192.168.1.149 | level: Verde | pkt_count: 14 
+2025-08-27 18:39:00 | 192.168.1.149 | level: Verde | pkt_count: 18 
+2025-08-27 18:38:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-27 18:39:00 | 35.170.88.220 | level: Verde | pkt_count: 8 
+2025-08-27 18:44:00 | 192.168.1.100 | level: Verde | pkt_count: 43 
+2025-08-27 18:44:00 | 192.168.1.143 | level: Amarelo | pkt_count: 132 
+2025-08-27 18:44:00 | 192.168.1.149 | level: Verde | pkt_count: 30 
+2025-08-27 18:44:00 | 192.168.1.254 | level: Verde | pkt_count: 20 
+2025-08-27 18:44:00 | 192.168.1.91 | level: Verde | pkt_count: 1 
+2025-08-27 18:44:00 | 20.189.173.2 | level: Verde | pkt_count: 1 
+2025-08-27 18:44:00 | 40.79.150.120 | level: Verde | pkt_count: 36 
+2025-08-27 18:44:00 | 52.178.17.233 | level: Verde | pkt_count: 8 
+2025-08-27 18:52:00 | 104.18.156.37 | level: Verde | pkt_count: 2 
+2025-08-27 18:51:00 | 13.89.179.14 | level: Verde | pkt_count: 7 
+2025-08-27 18:52:00 | 172.64.151.57 | level: Verde | pkt_count: 2 
+2025-08-27 18:51:00 | 192.168.1.100 | level: Verde | pkt_count: 2 
+2025-08-27 18:52:00 | 192.168.1.100 | level: Verde | pkt_count: 38 
+2025-08-27 18:52:00 | 192.168.1.137 | level: Verde | pkt_count: 6 
+2025-08-27 18:51:00 | 192.168.1.143 | level: Verde | pkt_count: 17 
+2025-08-27 18:52:00 | 192.168.1.143 | level: Verde | pkt_count: 116 
+2025-08-27 18:51:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-27 18:52:00 | 192.168.1.149 | level: Verde | pkt_count: 39 
+2025-08-27 18:52:00 | 192.168.1.254 | level: Verde | pkt_count: 15 
+2025-08-27 18:52:00 | 20.44.10.123 | level: Verde | pkt_count: 1 
+2025-08-27 18:54:00 | 104.208.16.95 | level: Verde | pkt_count: 8 
+2025-08-27 18:53:00 | 192.168.1.100 | level: Verde | pkt_count: 2 
+2025-08-27 18:54:00 | 192.168.1.100 | level: Verde | pkt_count: 34 
+2025-08-27 18:53:00 | 192.168.1.143 | level: Verde | pkt_count: 40 
+2025-08-27 18:54:00 | 192.168.1.143 | level: Amarelo | pkt_count: 177 
+2025-08-27 18:53:00 | 192.168.1.149 | level: Verde | pkt_count: 6 
+2025-08-27 18:54:00 | 192.168.1.149 | level: Verde | pkt_count: 30 
+2025-08-27 18:54:00 | 192.168.1.254 | level: Verde | pkt_count: 30 
+2025-08-27 18:53:00 | 20.189.173.25 | level: Verde | pkt_count: 24 
+2025-08-27 18:54:00 | 20.189.173.25 | level: Verde | pkt_count: 36 
+2025-08-27 18:56:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 18:56:00 | 192.168.1.143 | level: Verde | pkt_count: 28 
+2025-08-27 18:56:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 18:56:00 | 20.42.65.90 | level: Verde | pkt_count: 8 
+2025-08-27 18:56:00 | 51.116.253.168 | level: Verde | pkt_count: 2 
+2025-08-27 18:57:00 | 192.168.1.100 | level: Verde | pkt_count: 2 
+2025-08-27 18:56:00 | 192.168.1.143 | level: Verde | pkt_count: 10 
+2025-08-27 18:57:00 | 192.168.1.143 | level: Verde | pkt_count: 12 
+2025-08-27 18:57:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 18:56:00 | 20.189.173.3 | level: Verde | pkt_count: 8 
+2025-08-27 18:57:00 | 192.168.1.100 | level: Verde | pkt_count: 7 
+2025-08-27 18:57:00 | 192.168.1.143 | level: Verde | pkt_count: 22 
+2025-08-27 18:57:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-27 18:57:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 18:57:00 | 192.168.1.143 | level: Verde | pkt_count: 51 
+2025-08-27 18:57:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-27 18:57:00 | 192.168.1.254 | level: Verde | pkt_count: 16 
+2025-08-27 18:57:00 | 54.212.144.253 | level: Verde | pkt_count: 13 
+2025-08-27 18:57:00 | 192.168.1.100 | level: Verde | pkt_count: 2 
+2025-08-27 18:58:00 | 192.168.1.100 | level: Verde | pkt_count: 8 
+2025-08-27 18:57:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-27 18:58:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-27 18:57:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-27 18:58:00 | 192.168.1.149 | level: Verde | pkt_count: 10 
+2025-08-27 18:58:00 | 192.168.1.91 | level: Verde | pkt_count: 10 
+2025-08-27 18:58:00 | 192.168.1.100 | level: Verde | pkt_count: 7 
+2025-08-27 18:58:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-27 18:58:00 | 192.168.1.149 | level: Verde | pkt_count: 12 
+2025-08-27 18:58:00 | 192.168.1.91 | level: Verde | pkt_count: 1 
+2025-08-27 18:58:00 | 192.168.1.100 | level: Verde | pkt_count: 12 
+2025-08-27 18:58:00 | 192.168.1.143 | level: Verde | pkt_count: 20 
+2025-08-27 18:58:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-27 18:59:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 18:59:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-27 18:59:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 18:59:00 | 254.1.168.192 | level: Verde | pkt_count: 1 
+2025-08-27 18:59:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 18:59:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-27 18:59:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 18:59:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 18:59:00 | 192.168.1.143 | level: Verde | pkt_count: 19 
+2025-08-27 18:59:00 | 192.168.1.149 | level: Verde | pkt_count: 6 
+2025-08-27 18:59:00 | 192.168.1.254 | level: Verde | pkt_count: 9 
+2025-08-27 19:00:00 | 192.168.1.100 | level: Verde | pkt_count: 8 
+2025-08-27 19:00:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-27 19:00:00 | 192.168.1.149 | level: Verde | pkt_count: 9 
+2025-08-27 19:00:00 | 192.168.1.91 | level: Verde | pkt_count: 1 
+2025-08-27 19:00:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 19:00:00 | 192.168.1.143 | level: Verde | pkt_count: 27 
+2025-08-27 19:00:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 19:00:00 | 52.182.143.211 | level: Verde | pkt_count: 8 
+2025-08-27 19:18:00 | 104.208.16.88 | level: Verde | pkt_count: 17 
+2025-08-27 19:17:00 | 192.168.1.100 | level: Verde | pkt_count: 1 
+2025-08-27 19:18:00 | 192.168.1.100 | level: Verde | pkt_count: 5 
+2025-08-27 19:18:00 | 192.168.1.143 | level: Verde | pkt_count: 53 
+2025-08-27 19:18:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-27 19:18:00 | 20.189.173.15 | level: Verde | pkt_count: 8 
+2025-08-27 19:18:00 | 104.18.157.37 | level: Verde | pkt_count: 33 
+2025-08-27 19:18:00 | 104.18.36.199 | level: Verde | pkt_count: 11 
+2025-08-27 19:18:00 | 104.208.16.88 | level: Verde | pkt_count: 2 
+2025-08-27 19:18:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 19:18:00 | 192.168.1.143 | level: Verde | pkt_count: 95 
+2025-08-27 19:18:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 19:18:00 | 51.104.15.252 | level: Verde | pkt_count: 8 
+2025-08-27 19:18:00 | 51.105.71.136 | level: Verde | pkt_count: 20 
+2025-08-27 19:18:00 | 192.168.1.100 | level: Verde | pkt_count: 8 
+2025-08-27 19:18:00 | 192.168.1.143 | level: Verde | pkt_count: 18 
+2025-08-27 19:18:00 | 192.168.1.149 | level: Verde | pkt_count: 5 
+2025-08-27 19:27:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 19:27:00 | 192.168.1.143 | level: Verde | pkt_count: 19 
+2025-08-27 19:27:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-27 19:27:00 | 40.79.150.121 | level: Verde | pkt_count: 2 
+2025-08-27 19:27:00 | 192.168.1.100 | level: Verde | pkt_count: 2 
+2025-08-27 19:27:00 | 192.168.1.143 | level: Verde | pkt_count: 11 
+2025-08-27 19:27:00 | 192.168.1.254 | level: Verde | pkt_count: 6 
+2025-08-27 19:27:00 | 44.240.154.140 | level: Verde | pkt_count: 2 
+2025-08-27 19:44:00 | 192.168.1.100 | level: Verde | pkt_count: 10 
+2025-08-27 19:44:00 | 192.168.1.143 | level: Amarelo | pkt_count: 58 
+2025-08-27 19:44:00 | 192.168.1.149 | level: Verde | pkt_count: 6 
+2025-08-27 19:44:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-27 19:44:00 | 20.189.173.8 | level: Verde | pkt_count: 18 
+2025-08-27 19:44:00 | 20.44.10.123 | level: Verde | pkt_count: 8 
+2025-08-27 19:45:00 | 192.168.1.100 | level: Verde | pkt_count: 4 
+2025-08-27 19:45:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-27 19:45:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 18:27:00 | 13.89.179.9 | level: Verde | pkt_count: 1 
+2025-08-28 18:27:00 | 192.168.1.143 | level: Verde | pkt_count: 2 
+2025-08-28 18:28:00 | 13.89.179.9 | level: Verde | pkt_count: 13 
+2025-08-28 18:28:00 | 18.154.43.25 | level: Verde | pkt_count: 12 
+2025-08-28 18:28:00 | 192.168.1.143 | level: Verde | pkt_count: 116 
+2025-08-28 18:28:00 | 192.168.1.149 | level: Verde | pkt_count: 18 
+2025-08-28 18:28:00 | 34.159.227.151 | level: Verde | pkt_count: 27 
+2025-08-28 18:28:00 | 52.182.143.215 | level: Verde | pkt_count: 13 
+2025-08-28 18:40:00 | 192.168.1.143 | level: Verde | pkt_count: 46 
+2025-08-28 18:41:00 | 192.168.1.143 | level: Verde | pkt_count: 32 
+2025-08-28 18:40:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 18:41:00 | 192.168.1.149 | level: Verde | pkt_count: 20 
+2025-08-28 18:40:00 | 34.159.227.151 | level: Verde | pkt_count: 23 
+2025-08-28 18:42:00 | 192.168.1.143 | level: Verde | pkt_count: 11 
+2025-08-28 18:42:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 18:42:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 18:43:00 | 192.168.1.143 | level: Verde | pkt_count: 17 
+2025-08-28 18:43:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 18:43:00 | 34.199.180.40 | level: Verde | pkt_count: 2 
+2025-08-28 18:44:00 | 192.168.1.143 | level: Verde | pkt_count: 46 
+2025-08-28 18:44:00 | 192.168.1.149 | level: Verde | pkt_count: 12 
+2025-08-28 18:44:00 | 34.159.227.151 | level: Verde | pkt_count: 20 
+2025-08-28 18:44:00 | 192.168.1.143 | level: Verde | pkt_count: 18 
+2025-08-28 18:45:00 | 192.168.1.143 | level: Verde | pkt_count: 17 
+2025-08-28 18:44:00 | 192.168.1.149 | level: Verde | pkt_count: 6 
+2025-08-28 18:45:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-28 18:44:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 18:44:00 | 20.190.147.0 | level: Verde | pkt_count: 1 
+2025-08-28 18:45:00 | 34.159.227.151 | level: Verde | pkt_count: 12 
+2025-08-28 18:45:00 | 192.168.1.143 | level: Verde | pkt_count: 18 
+2025-08-28 18:45:00 | 192.168.1.149 | level: Verde | pkt_count: 10 
+2025-08-28 18:45:00 | 34.159.227.151 | level: Verde | pkt_count: 1 
+2025-08-28 18:46:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 18:46:00 | 104.18.36.199 | level: Verde | pkt_count: 1 
+2025-08-28 18:46:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 18:46:00 | 192.168.1.143 | level: Verde | pkt_count: 22 
+2025-08-28 18:46:00 | 192.168.1.149 | level: Verde | pkt_count: 14 
+2025-08-28 18:46:00 | 192.168.1.143 | level: Verde | pkt_count: 58 
+2025-08-28 18:46:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 18:46:00 | 192.168.1.254 | level: Verde | pkt_count: 2 
+2025-08-28 18:46:00 | 34.159.227.151 | level: Verde | pkt_count: 24 
+2025-08-28 18:47:00 | 192.168.1.143 | level: Verde | pkt_count: 32 
+2025-08-28 18:47:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 18:47:00 | 20.42.73.26 | level: Verde | pkt_count: 14 
+2025-08-28 18:48:00 | 0.0.0.0 | level: Verde | pkt_count: 1 
+2025-08-28 18:48:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 18:48:00 | 104.18.36.199 | level: Verde | pkt_count: 1 
+2025-08-28 18:48:00 | 192.168.1.143 | level: Verde | pkt_count: 22 
+2025-08-28 18:48:00 | 192.168.1.149 | level: Verde | pkt_count: 12 
+2025-08-28 18:48:00 | 192.168.1.143 | level: Verde | pkt_count: 17 
+2025-08-28 18:48:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 18:48:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 18:49:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-28 18:49:00 | 192.168.1.149 | level: Verde | pkt_count: 12 
+2025-08-28 18:50:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-28 18:50:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-28 18:50:00 | 192.168.1.254 | level: Verde | pkt_count: 8 
+2025-08-28 18:50:00 | 34.159.227.151 | level: Verde | pkt_count: 1 
+2025-08-28 19:01:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 19:01:00 | 192.168.1.143 | level: Verde | pkt_count: 10 
+2025-08-28 19:01:00 | 192.168.1.149 | level: Verde | pkt_count: 9 
+2025-08-28 19:01:00 | 52.182.143.214 | level: Verde | pkt_count: 1 
+2025-08-28 19:01:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 19:01:00 | 192.168.1.143 | level: Verde | pkt_count: 10 
+2025-08-28 19:01:00 | 192.168.1.149 | level: Verde | pkt_count: 7 
+2025-08-28 19:01:00 | 34.159.227.151 | level: Verde | pkt_count: 1 
+2025-08-28 19:02:00 | 192.168.1.143 | level: Verde | pkt_count: 31 
+2025-08-28 19:02:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:02:00 | 40.79.197.34 | level: Verde | pkt_count: 20 
+2025-08-28 19:02:00 | 192.168.1.143 | level: Verde | pkt_count: 56 
+2025-08-28 19:02:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:02:00 | 34.159.227.151 | level: Verde | pkt_count: 23 
+2025-08-28 19:02:00 | 40.79.197.34 | level: Verde | pkt_count: 19 
+2025-08-28 19:02:00 | 192.168.1.143 | level: Verde | pkt_count: 27 
+2025-08-28 19:02:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:02:00 | 192.168.1.254 | level: Verde | pkt_count: 8 
+2025-08-28 19:02:00 | 34.159.227.151 | level: Verde | pkt_count: 13 
+2025-08-28 19:03:00 | 192.168.1.143 | level: Verde | pkt_count: 13 
+2025-08-28 19:03:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:03:00 | 192.168.1.254 | level: Verde | pkt_count: 26 
+2025-08-28 19:03:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 19:03:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-28 19:03:00 | 192.168.1.149 | level: Verde | pkt_count: 9 
+2025-08-28 19:03:00 | 192.168.1.143 | level: Verde | pkt_count: 6 
+2025-08-28 19:03:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:03:00 | 192.168.1.143 | level: Verde | pkt_count: 4 
+2025-08-28 19:04:00 | 192.168.1.143 | level: Verde | pkt_count: 4 
+2025-08-28 19:03:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-28 19:04:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-28 19:04:00 | 192.168.1.143 | level: Verde | pkt_count: 10 
+2025-08-28 19:04:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:04:00 | 54.201.212.247 | level: Verde | pkt_count: 2 
+2025-08-28 19:04:00 | 192.168.1.143 | level: Verde | pkt_count: 28 
+2025-08-28 19:04:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:04:00 | 34.159.227.151 | level: Verde | pkt_count: 14 
+2025-08-28 19:05:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-28 19:05:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:05:00 | 192.168.1.143 | level: Verde | pkt_count: 10 
+2025-08-28 19:05:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 19:05:00 | 54.203.212.164 | level: Verde | pkt_count: 2 
+2025-08-28 20:00:00 | 192.168.1.137 | level: Verde | pkt_count: 3 
+2025-08-28 20:00:00 | 192.168.1.143 | level: Verde | pkt_count: 48 
+2025-08-28 20:00:00 | 192.168.1.149 | level: Verde | pkt_count: 18 
+2025-08-28 20:00:00 | 4.231.128.59 | level: Verde | pkt_count: 19 
+2025-08-28 20:01:00 | 192.168.1.143 | level: Verde | pkt_count: 39 
+2025-08-28 20:02:00 | 192.168.1.143 | level: Verde | pkt_count: 4 
+2025-08-28 20:01:00 | 192.168.1.149 | level: Verde | pkt_count: 10 
+2025-08-28 20:02:00 | 192.168.1.149 | level: Verde | pkt_count: 9 
+2025-08-28 20:01:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:01:00 | 34.159.227.151 | level: Verde | pkt_count: 13 
+2025-08-28 20:03:00 | 104.18.157.37 | level: Amarelo | pkt_count: 34 
+2025-08-28 20:04:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 20:03:00 | 104.18.36.199 | level: Verde | pkt_count: 9 
+2025-08-28 20:03:00 | 192.168.1.143 | level: Amarelo | pkt_count: 83 
+2025-08-28 20:04:00 | 192.168.1.143 | level: Verde | pkt_count: 41 
+2025-08-28 20:03:00 | 192.168.1.149 | level: Verde | pkt_count: 6 
+2025-08-28 20:04:00 | 192.168.1.149 | level: Verde | pkt_count: 9 
+2025-08-28 20:03:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:04:00 | 20.190.147.3 | level: Amarelo | pkt_count: 7 
+2025-08-28 20:03:00 | 20.42.73.31 | level: Verde | pkt_count: 19 
+2025-08-28 20:03:00 | 34.159.227.151 | level: Verde | pkt_count: 1 
+2025-08-28 20:04:00 | 44.240.38.192 | level: Verde | pkt_count: 12 
+2025-08-28 20:09:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 20:10:00 | 104.18.157.37 | level: Verde | pkt_count: 3 
+2025-08-28 20:08:00 | 104.18.36.199 | level: Verde | pkt_count: 1 
+2025-08-28 20:09:00 | 104.18.36.199 | level: Verde | pkt_count: 1 
+2025-08-28 20:10:00 | 104.18.36.199 | level: Verde | pkt_count: 2 
+2025-08-28 20:10:00 | 192.168.1.137 | level: Verde | pkt_count: 5 
+2025-08-28 20:08:00 | 192.168.1.143 | level: Verde | pkt_count: 11 
+2025-08-28 20:09:00 | 192.168.1.143 | level: Amarelo | pkt_count: 166 
+2025-08-28 20:10:00 | 192.168.1.143 | level: Amarelo | pkt_count: 95 
+2025-08-28 20:08:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 20:09:00 | 192.168.1.149 | level: Verde | pkt_count: 24 
+2025-08-28 20:10:00 | 192.168.1.149 | level: Verde | pkt_count: 32 
+2025-08-28 20:09:00 | 192.168.1.254 | level: Verde | pkt_count: 8 
+2025-08-28 20:10:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:08:00 | 34.159.227.151 | level: Verde | pkt_count: 1 
+2025-08-28 20:09:00 | 34.159.227.151 | level: Verde | pkt_count: 87 
+2025-08-28 20:10:00 | 34.159.227.151 | level: Verde | pkt_count: 35 
+2025-08-28 20:19:00 | 192.168.1.137 | level: Verde | pkt_count: 7 
+2025-08-28 20:20:00 | 192.168.1.137 | level: Verde | pkt_count: 2 
+2025-08-28 20:21:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:19:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-28 20:20:00 | 192.168.1.143 | level: Verde | pkt_count: 55 
+2025-08-28 20:21:00 | 192.168.1.143 | level: Verde | pkt_count: 29 
+2025-08-28 20:19:00 | 192.168.1.149 | level: Verde | pkt_count: 14 
+2025-08-28 20:20:00 | 192.168.1.149 | level: Verde | pkt_count: 31 
+2025-08-28 20:21:00 | 192.168.1.149 | level: Verde | pkt_count: 14 
+2025-08-28 20:19:00 | 192.168.1.254 | level: Verde | pkt_count: 8 
+2025-08-28 20:20:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:21:00 | 192.168.1.254 | level: Verde | pkt_count: 20 
+2025-08-28 20:24:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:25:00 | 192.168.1.137 | level: Verde | pkt_count: 2 
+2025-08-28 20:23:00 | 192.168.1.143 | level: Verde | pkt_count: 16 
+2025-08-28 20:24:00 | 192.168.1.143 | level: Verde | pkt_count: 55 
+2025-08-28 20:25:00 | 192.168.1.143 | level: Verde | pkt_count: 28 
+2025-08-28 20:23:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 20:24:00 | 192.168.1.149 | level: Verde | pkt_count: 28 
+2025-08-28 20:25:00 | 192.168.1.149 | level: Verde | pkt_count: 18 
+2025-08-28 20:24:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:25:00 | 254.1.168.192 | level: Verde | pkt_count: 1 
+2025-08-28 20:27:00 | 104.18.157.37 | level: Amarelo | pkt_count: 32 
+2025-08-28 20:28:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 20:27:00 | 13.107.5.93 | level: Verde | pkt_count: 28 
+2025-08-28 20:27:00 | 172.64.151.57 | level: Verde | pkt_count: 9 
+2025-08-28 20:28:00 | 172.64.151.57 | level: Verde | pkt_count: 1 
+2025-08-28 20:28:00 | 192.168.1.137 | level: Verde | pkt_count: 2 
+2025-08-28 20:29:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:27:00 | 192.168.1.143 | level: Verde | pkt_count: 77 
+2025-08-28 20:28:00 | 192.168.1.143 | level: Amarelo | pkt_count: 114 
+2025-08-28 20:29:00 | 192.168.1.143 | level: Verde | pkt_count: 32 
+2025-08-28 20:27:00 | 192.168.1.149 | level: Verde | pkt_count: 8 
+2025-08-28 20:28:00 | 192.168.1.149 | level: Verde | pkt_count: 32 
+2025-08-28 20:29:00 | 192.168.1.149 | level: Verde | pkt_count: 16 
+2025-08-28 20:28:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:28:00 | 34.120.68.241 | level: Verde | pkt_count: 29 
+2025-08-28 20:28:00 | 34.54.215.149 | level: Verde | pkt_count: 28 
+2025-08-28 20:32:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 20:33:00 | 104.18.157.37 | level: Verde | pkt_count: 1 
+2025-08-28 20:32:00 | 172.64.151.57 | level: Verde | pkt_count: 1 
+2025-08-28 20:33:00 | 172.64.151.57 | level: Verde | pkt_count: 1 
+2025-08-28 20:33:00 | 192.168.1.137 | level: Verde | pkt_count: 2 
+2025-08-28 20:34:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:32:00 | 192.168.1.143 | level: Verde | pkt_count: 58 
+2025-08-28 20:33:00 | 192.168.1.143 | level: Verde | pkt_count: 53 
+2025-08-28 20:34:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-28 20:32:00 | 192.168.1.149 | level: Verde | pkt_count: 24 
+2025-08-28 20:33:00 | 192.168.1.149 | level: Verde | pkt_count: 31 
+2025-08-28 20:34:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 20:33:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:33:00 | 254.1.168.192 | level: Verde | pkt_count: 1 
+2025-08-28 20:36:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:37:00 | 192.168.1.137 | level: Verde | pkt_count: 2 
+2025-08-28 20:38:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:36:00 | 192.168.1.143 | level: Verde | pkt_count: 52 
+2025-08-28 20:37:00 | 192.168.1.143 | level: Verde | pkt_count: 51 
+2025-08-28 20:38:00 | 192.168.1.143 | level: Verde | pkt_count: 4 
+2025-08-28 20:36:00 | 192.168.1.149 | level: Verde | pkt_count: 27 
+2025-08-28 20:37:00 | 192.168.1.149 | level: Verde | pkt_count: 27 
+2025-08-28 20:38:00 | 192.168.1.149 | level: Verde | pkt_count: 2 
+2025-08-28 20:36:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:37:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:41:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:40:00 | 192.168.1.143 | level: Verde | pkt_count: 48 
+2025-08-28 20:41:00 | 192.168.1.143 | level: Verde | pkt_count: 68 
+2025-08-28 20:42:00 | 192.168.1.143 | level: Verde | pkt_count: 8 
+2025-08-28 20:40:00 | 192.168.1.149 | level: Verde | pkt_count: 24 
+2025-08-28 20:41:00 | 192.168.1.149 | level: Verde | pkt_count: 27 
+2025-08-28 20:42:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 20:41:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:41:00 | 20.210.9.245 | level: Verde | pkt_count: 18 
+2025-08-28 20:41:00 | 254.1.168.192 | level: Verde | pkt_count: 1 
+2025-08-28 20:40:00 | 34.159.227.151 | level: Verde | pkt_count: 1 
+2025-08-28 20:41:00 | 40.126.53.12 | level: Verde | pkt_count: 1 
+2025-08-28 20:44:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:46:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:44:00 | 192.168.1.143 | level: Verde | pkt_count: 44 
+2025-08-28 20:45:00 | 192.168.1.143 | level: Verde | pkt_count: 51 
+2025-08-28 20:46:00 | 192.168.1.143 | level: Verde | pkt_count: 30 
+2025-08-28 20:44:00 | 192.168.1.149 | level: Verde | pkt_count: 26 
+2025-08-28 20:45:00 | 192.168.1.149 | level: Verde | pkt_count: 24 
+2025-08-28 20:46:00 | 192.168.1.149 | level: Verde | pkt_count: 5 
+2025-08-28 20:44:00 | 192.168.1.254 | level: Verde | pkt_count: 20 
+2025-08-28 20:45:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:46:00 | 35.80.244.131 | level: Verde | pkt_count: 20 
+2025-08-28 20:48:00 | 0.0.0.0 | level: Verde | pkt_count: 1 
+2025-08-28 20:48:00 | 192.168.1.143 | level: Verde | pkt_count: 44 
+2025-08-28 20:49:00 | 192.168.1.143 | level: Amarelo | pkt_count: 70 
+2025-08-28 20:50:00 | 192.168.1.143 | level: Verde | pkt_count: 15 
+2025-08-28 20:48:00 | 192.168.1.149 | level: Verde | pkt_count: 24 
+2025-08-28 20:49:00 | 192.168.1.149 | level: Verde | pkt_count: 24 
+2025-08-28 20:50:00 | 192.168.1.149 | level: Verde | pkt_count: 4 
+2025-08-28 20:49:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:49:00 | 44.240.38.192 | level: Verde | pkt_count: 15 
+2025-08-28 20:52:00 | 192.168.1.143 | level: Verde | pkt_count: 28 
+2025-08-28 20:53:00 | 192.168.1.143 | level: Verde | pkt_count: 54 
+2025-08-28 20:54:00 | 192.168.1.143 | level: Verde | pkt_count: 20 
+2025-08-28 20:52:00 | 192.168.1.149 | level: Verde | pkt_count: 19 
+2025-08-28 20:53:00 | 192.168.1.149 | level: Verde | pkt_count: 26 
+2025-08-28 20:54:00 | 192.168.1.149 | level: Verde | pkt_count: 15 
+2025-08-28 20:53:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:57:00 | 13.107.5.93 | level: Verde | pkt_count: 28 
+2025-08-28 20:57:00 | 192.168.1.137 | level: Verde | pkt_count: 1 
+2025-08-28 20:56:00 | 192.168.1.143 | level: Verde | pkt_count: 32 
+2025-08-28 20:57:00 | 192.168.1.143 | level: Verde | pkt_count: 97 
+2025-08-28 20:58:00 | 192.168.1.143 | level: Verde | pkt_count: 27 
+2025-08-28 20:56:00 | 192.168.1.149 | level: Verde | pkt_count: 16 
+2025-08-28 20:57:00 | 192.168.1.149 | level: Verde | pkt_count: 27 
+2025-08-28 20:58:00 | 192.168.1.149 | level: Verde | pkt_count: 14 
+2025-08-28 20:58:00 | 192.168.1.254 | level: Verde | pkt_count: 1 
+2025-08-28 20:58:00 | 254.1.168.192 | level: Verde | pkt_count: 1 
+2025-08-28 20:57:00 | 34.159.227.151 | level: Verde | pkt_count: 29 
+2025-09-01 19:12:00 | 104.18.157.37 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-01 19:13:00 | 104.18.157.37 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-01 19:12:00 | 172.64.151.57 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-01 19:13:00 | 172.64.151.57 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-01 19:12:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 6 
+2025-09-01 19:13:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 39 
+2025-09-01 19:14:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 28 
+2025-09-01 19:13:00 | 192.168.1.137 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-01 19:12:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 29 
+2025-09-01 19:13:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 110 
+2025-09-01 19:14:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 77 
+2025-09-01 19:13:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-01 19:12:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 15 
+2025-09-01 19:13:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 57 
+2025-09-01 19:14:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 46 
+2025-09-01 19:13:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:01:00 | 155.133.250.20 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:02:00 | 155.133.250.20 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:00:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:01:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 25 
+2025-09-02 18:02:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 35 
+2025-09-02 18:00:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:01:00 | 192.168.1.143 | IA level: Vermelho | decision: no_rule | pkt_count: 227 
+2025-09-02 18:02:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 169 
+2025-09-02 18:02:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:00:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:01:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 30 
+2025-09-02 18:02:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 32 
+2025-09-02 18:00:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:01:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 24 
+2025-09-02 18:02:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 29 
+2025-09-02 18:02:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:02:00 | 199.232.215.82 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:02:00 | 20.199.58.43 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:01:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 60 
+2025-09-02 18:02:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:28:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:27:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:28:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:27:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:28:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 59 
+2025-09-02 18:27:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:28:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:27:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:28:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:27:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:28:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:29:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:28:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:29:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 20 
+2025-09-02 18:28:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 18 
+2025-09-02 18:29:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 91 
+2025-09-02 18:29:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:28:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:29:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 18 
+2025-09-02 18:28:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:29:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 18 
+2025-09-02 18:29:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 33 
+2025-09-02 18:30:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:29:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:30:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:29:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:30:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 62 
+2025-09-02 18:29:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:30:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:29:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:30:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:31:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:30:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:31:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 19 
+2025-09-02 18:30:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:31:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 59 
+2025-09-02 18:31:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:30:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 6 
+2025-09-02 18:31:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 17 
+2025-09-02 18:30:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:31:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 15 
+2025-09-02 18:31:00 | 13.89.178.27 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:32:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:31:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:32:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:31:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 50 
+2025-09-02 18:32:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 55 
+2025-09-02 18:31:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:32:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:31:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:32:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:31:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 17 
+2025-09-02 18:32:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:33:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:32:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:33:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:32:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 39 
+2025-09-02 18:33:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 79 
+2025-09-02 18:32:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:33:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:32:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:33:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:32:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 19 
+2025-09-02 18:33:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 22 
+2025-09-02 18:33:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:34:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:33:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:34:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:33:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 16 
+2025-09-02 18:34:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 61 
+2025-09-02 18:33:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:34:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:33:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:34:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:35:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:34:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:35:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 11 
+2025-09-02 18:34:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:35:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 51 
+2025-09-02 18:35:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:34:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:35:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:34:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:35:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:35:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 20 
+2025-09-02 18:35:00 | 13.89.179.13 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:36:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:35:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:36:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:35:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 29 
+2025-09-02 18:36:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 53 
+2025-09-02 18:35:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:36:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:35:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:36:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:35:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:37:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:36:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:37:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 17 
+2025-09-02 18:36:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 31 
+2025-09-02 18:37:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 80 
+2025-09-02 18:36:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:37:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:36:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:37:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 18 
+2025-09-02 18:36:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:37:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:37:00 | 20.189.173.26 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:36:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:37:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:37:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:38:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:37:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 80 
+2025-09-02 18:38:00 | 192.168.1.143 | IA level: Vermelho | decision: no_rule | pkt_count: 83 
+2025-09-02 18:37:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 6 
+2025-09-02 18:38:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:37:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:38:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:38:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 20.189.173.26 | IA level: Verde | decision: no_rule | pkt_count: 15 
+2025-09-02 18:37:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 55 
+2025-09-02 18:38:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 34.160.86.181 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:38:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 11 
+2025-09-02 18:37:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:38:00 | 192.168.1.143 | IA level: Vermelho | decision: no_rule | pkt_count: 97 
+2025-09-02 18:38:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:37:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 11 
+2025-09-02 18:38:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 20.189.173.26 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:37:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:38:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 34.160.86.181 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:39:00 | 13.89.179.13 | IA level: Verde | decision: no_rule | pkt_count: 13 
+2025-09-02 18:39:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 5 
+2025-09-02 18:39:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:38:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 22 
+2025-09-02 18:39:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 65 
+2025-09-02 18:38:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:39:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:38:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:39:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:38:00 | 44.240.38.192 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:39:00 | 13.89.179.13 | IA level: Verde | decision: no_rule | pkt_count: 13 
+2025-09-02 18:39:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:38:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:39:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:38:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-02 18:39:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 77 
+2025-09-02 18:39:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:38:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:39:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:39:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:39:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-02 18:40:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 13 
+2025-09-02 18:39:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 62 
+2025-09-02 18:40:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 53 
+2025-09-02 18:40:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:39:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 9 
+2025-09-02 18:40:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:39:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:40:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 13 
+2025-09-02 18:40:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:39:00 | 52.168.117.169 | IA level: Verde | decision: no_rule | pkt_count: 27 
+2025-09-02 18:40:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:39:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:40:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:39:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 12 
+2025-09-02 18:40:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 64 
+2025-09-02 18:40:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:39:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:40:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-02 18:39:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:40:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-02 18:40:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:39:00 | 52.168.117.169 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:41:00 | 155.133.246.36 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:41:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 13 
+2025-09-02 18:40:00 | 192.168.1.143 | IA level: Amarelo | decision: no_rule | pkt_count: 22 
+2025-09-02 18:41:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 67 
+2025-09-02 18:40:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-02 18:41:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-02 18:40:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-02 18:41:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 11 
+2025-09-02 18:40:00 | 52.168.117.169 | IA level: Verde | decision: no_rule | pkt_count: 3 
+2025-09-02 18:40:00 | 52.182.143.211 | IA level: Verde | decision: no_rule | pkt_count: 8 
+2025-09-04 18:30:00 | 104.18.156.37 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:30:00 | 155.133.246.52 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:30:00 | 172.64.151.57 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:30:00 | 18.156.18.167 | IA level: Verde | decision: no_rule | pkt_count: 15 
+2025-09-04 18:30:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 14 
+2025-09-04 18:29:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:30:00 | 192.168.1.143 | IA level: Vermelho | decision: no_rule | pkt_count: 191 
+2025-09-04 18:30:00 | 192.168.1.147 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:30:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 16 
+2025-09-04 18:30:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 13 
+2025-09-04 18:30:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 55 
+2025-09-04 18:30:00 | 74.125.250.129 | IA level: Verde | decision: no_rule | pkt_count: 15 
+2025-09-04 18:31:00 | 13.107.5.91 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-04 18:31:00 | 155.133.246.52 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:31:00 | 18.156.18.168 | IA level: Verde | decision: no_rule | pkt_count: 10 
+2025-09-04 18:30:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 2 
+2025-09-04 18:31:00 | 192.168.1.100 | IA level: Verde | decision: no_rule | pkt_count: 19 
+2025-09-04 18:30:00 | 192.168.1.143 | IA level: Verde | decision: no_rule | pkt_count: 4 
+2025-09-04 18:31:00 | 192.168.1.143 | IA level: Vermelho | decision: no_rule | pkt_count: 177 
+2025-09-04 18:31:00 | 192.168.1.149 | IA level: Verde | decision: no_rule | pkt_count: 24 
+2025-09-04 18:31:00 | 192.168.1.184 | IA level: Verde | decision: no_rule | pkt_count: 17 
+2025-09-04 18:31:00 | 192.168.1.254 | IA level: Verde | decision: no_rule | pkt_count: 1 
+2025-09-04 18:31:00 | 34.159.227.151 | IA level: Verde | decision: no_rule | pkt_count: 51 
+2025-09-04 18:31:00 | 74.125.250.129 | IA level: Verde | decision: no_rule | pkt_count: 10 
