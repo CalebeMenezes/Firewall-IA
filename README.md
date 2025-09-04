@@ -1,4 +1,4 @@
-# Firewall Inteligente com IA
+# Firewall IA
 
 ## 🔐 Descrição
 
@@ -37,5 +37,42 @@ Este projeto está licenciado sob a licença Custom Educational & Commercial, pa
 - Email: calebe.bezerra14@gmail.com
 - GitHub: github.com/CalebeMenezes
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 🔐 Description
+
+This project is an intelligent firewall with packet detection and real-time traffic classification using artificial intelligence. The interactive dashboard allows you to:
+
+- View network traffic in real time with animated graphs.
+- Centrally manage IP rules (block/allow).
+- Audit user actions.
+- Correct packet classification via feedback.
+- Firewall control (start, pause, stop) with dynamic status.
+- Secure login system with password hashing and brute-force protection.
+
+This project is ideal for studying, demonstrating, and prototyping AI-powered network security.
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.9 or higher
+- Libraries listed in `requirements.txt`:
+
+bash
+`pip install -r requirements.txt`
+
+🚀 How to run
+`streamlit run src/dashboard_app.py`
+
+Default users:
+Admin: `admin / admin123`
+Viewer: `viewer / viewer123`
+
+📝 License
+This project is licensed under the Custom Educational & Commercial license, for academic use and free study. For commercial use or redistribution for profit, contact the author:
+
+- Name: Celebe Bezerra de Menezes
+- Email: calebe.bezerra14@gmail.com
+- GitHub: github.com/CalebeMenezes
  
