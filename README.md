@@ -1,5 +1,7 @@
 # Firewall IA
 
+*PTBR*
+
 ## 🔐 Descrição
 
 Este projeto é um **firewall inteligente** com detecção de pacotes e classificação de tráfego em tempo real usando **inteligência artificial**. O dashboard interativo permite:
@@ -38,7 +40,8 @@ Este projeto está licenciado sob a licença Custom Educational & Commercial, pa
 - GitHub: github.com/CalebeMenezes
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+ *EN*
+ 
 ## 🔐 Description
 
 This project is an intelligent firewall with packet detection and real-time traffic classification using artificial intelligence. The interactive dashboard allows you to:
