@@ -33,9 +33,9 @@ Viewer: `viewer / viewer123`
 📝 Licença
 Este projeto está licenciado sob a licença Custom Educational & Commercial, para uso acadêmico e estudo livre. Para uso comercial ou redistribuição com fins lucrativos, contate o autor:
 
-Nome: Celebe Bezerra de Menezes
-Email: calebe.bezerra14@gmail.com
-GitHub: github.com/CalebeMenezes
+- Nome: Celebe Bezerra de Menezes
+- Email: calebe.bezerra14@gmail.com
+- GitHub: github.com/CalebeMenezes
 
 
  
