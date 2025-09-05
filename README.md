@@ -33,7 +33,7 @@ Admin: `admin / admin123`
 Viewer: `viewer / viewer123`
 
 📝 Licença
-Este projeto está licenciado sob a licença Custom Educational & Commercial, para uso acadêmico e estudo livre. Para uso comercial ou redistribuição com fins lucrativos, contate o autor:
+- Este projeto está licenciado sob a licença Custom Educational & Commercial, para uso acadêmico e estudo livre. Para uso comercial ou redistribuição com fins lucrativos, contate o autor:
 
 - Nome: Celebe Bezerra de Menezes
 - Email: calebe.bezerra14@gmail.com
@@ -73,7 +73,7 @@ Admin: `admin / admin123`
 Viewer: `viewer / viewer123`
 
 📝 License
-This project is licensed under the Custom Educational & Commercial license, for academic use and free study. For commercial use or redistribution for profit, contact the author:
+- This project is licensed under the Custom Educational & Commercial license, for academic use and free study. For commercial use or redistribution for profit, contact the author:
 
 - Name: Celebe Bezerra de Menezes
 - Email: calebe.bezerra14@gmail.com
